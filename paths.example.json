@@ -1,0 +1,6 @@
+{
+  "jdk": "C:/Path/To/jdk",
+  "serverRoot": "C:/Path/To/GTNH-Server",
+  "libraryRoot": "C:/Path/To/launcher/libraries",
+  "clientRoot": "C:/Path/To/instance/.minecraft"
+}
